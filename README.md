@@ -14,9 +14,9 @@ You can download the dataset => https://www.kaggle.com/datasets/aungpyaeap/super
 ## Analysis Tools
 
 - Python
-- pandas
-- numpy
-- matplotlib 
+- Numpy
+- Pandas
+- Matplotlib 
 
 ## Conclusion
 
