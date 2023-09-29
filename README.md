@@ -13,7 +13,10 @@ You can download the dataset => https://www.kaggle.com/datasets/aungpyaeap/super
 
 ## Analysis Tools
 
-- Python, pandas, numpy, matplotlib .
+- Python
+- pandas
+- numpy
+- matplotlib 
 
 ## Conclusion
 
